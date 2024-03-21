@@ -1,1 +1,1 @@
-# prisma-lab
+# prisma-tutorial
