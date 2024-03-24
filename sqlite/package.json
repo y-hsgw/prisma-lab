@@ -1,5 +1,5 @@
 {
-  "name": "prisma-tutorial-postgresql",
+  "name": "prisma-tutorial-sqlite",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
